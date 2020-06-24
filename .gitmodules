@@ -1,0 +1,40 @@
+[submodule "oe-core/sources/bitbake"]
+	path = oe-core/sources/bitbake
+	url = git://github.com/openembedded/bitbake.git
+	branch = 1.46
+[submodule "oe-core/sources/meta-freescale"]
+	path = oe-core/sources/meta-freescale
+	url = git@github.com:Freescale/meta-freescale.git
+	branch = dunfell
+[submodule "oe-core/sources/meta-freescale-3rdparty"]
+	path = oe-core/sources/meta-freescale-3rdparty
+	url = git@github.com:Freescale/meta-freescale-3rdparty.git
+	branch = master
+[submodule "oe-core/sources/meta-mortsgna"]
+	path = oe-core/sources/meta-mortsgna
+	url = git@github.com:schnitzeltony/meta-mortsgna.git
+	branch = master
+[submodule "oe-core/sources/meta-openembedded"]
+	path = oe-core/sources/meta-openembedded
+	url = git://github.com/openembedded/meta-openembedded.git
+	branch = dunfell
+[submodule "oe-core/sources/meta-python2"]
+	path = oe-core/sources/meta-python2
+	url = git://git.openembedded.org/meta-python2
+	branch = master
+[submodule "oe-core/sources/meta-qt5"]
+	path = oe-core/sources/meta-qt5
+	url = git://github.com/meta-qt5/meta-qt5.git
+	branch = dunfell
+[submodule "oe-core/sources/meta-qt5-extra"]
+	path = oe-core/sources/meta-qt5-extra
+	url = git@github.com:schnitzeltony/meta-qt5-extra.git
+	branch = master
+[submodule "oe-core/sources/meta-zera"]
+	path = oe-core/sources/meta-zera
+	url = git@github.com:ZeraGmbH/meta-zera.git
+	branch = master
+[submodule "oe-core/sources/openembedded-core"]
+	path = oe-core/sources/openembedded-core
+	url = git@github.com:ZeraGmbH/oe-core.git
+	branch = dunfell+
